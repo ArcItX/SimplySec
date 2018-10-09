@@ -1,0 +1,5 @@
+Button	KEYWORD1
+
+scanState	KEYWORD2
+filterAverage	KEYWORD2
+setPinTime	KEYWORD2
