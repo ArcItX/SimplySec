@@ -1,2 +1,6 @@
-.gitignore.
+
+#Исключим сам .gitignore
+.gitignore
+
+#исключим служебный windows файл
 desktop.ini
